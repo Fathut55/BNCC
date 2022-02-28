@@ -1,0 +1,22 @@
+.about h1{
+
+margin-bottom: 40px;
+background-color: beige;
+border-radius: 40px;
+margin: auto;
+text-align: center;
+margin-bottom: 30px;
+}
+.about{
+    width: 50rem;
+    margin: auto;
+   
+}
+.about p{
+    width: 50rem;
+    overflow: auto;
+    margin: auto;
+    background-color: azure;
+    border-radius: 10px;
+   
+}

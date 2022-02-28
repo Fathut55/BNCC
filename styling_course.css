@@ -1,0 +1,67 @@
+
+
+.python_teks{
+    width: 70rem;
+    overflow: auto;
+    margin: auto;
+    border-radius: 25px;
+    margin-top: 70px;
+
+}
+.python_teks p{
+    font-size: 40px;
+    font-family: 'Chakra Petch', sans-serif;
+
+}
+.python_teks h1{
+
+    font-size: 90px;
+    font-family: 'Permanent Marker', cursive; 
+  
+
+}
+
+.python_teks h3{
+
+    font-size:45px;
+   
+  
+
+}
+
+.cpp_teks{
+    width: 70rem;
+    overflow: auto;
+    margin: auto;
+    border-radius: 25px;
+    margin-top: 70px;
+
+}
+.cpp_teks p ol{
+    font-size: 40px;
+    font-family: 'Chakra Petch', sans-serif;
+
+}
+.cpp_teks h1{
+
+    font-size: 90px;
+    font-family: 'Permanent Marker', cursive; 
+  
+
+}
+
+.cpp_teks h3{
+
+    font-size:45px;
+   
+  
+
+}
+
+
+body{
+    background-color: white;
+    background-image: url(https://smallimg.pngkey.com/png/small/104-1040259_white-thick-diagonal-line-shown-on-a-coloured.png);
+    width: 100%;
+    height: 100%;
+  }
